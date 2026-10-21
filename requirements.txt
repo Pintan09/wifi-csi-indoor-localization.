@@ -1,0 +1,1 @@
+numpy\npandas\nscipy\nscikit-learn\nmatplotlib\ntorch\ntqdm\nh5py\njupyter\n
